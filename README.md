@@ -1,3 +1,3 @@
 # Demo
 
-My new project Practices
+My new project Practices!
